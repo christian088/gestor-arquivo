@@ -1,0 +1,10 @@
+{
+  "development": {
+    "dialect": "mysql",
+    "host": "0.0.0.0",
+    "database": "db_gestor_arquivos",
+    "username": "user_gestor_arquivo",
+    "password": "Senac@123",
+    "port": 3306
+  }
+}
